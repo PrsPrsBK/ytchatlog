@@ -21,5 +21,9 @@
   "homepage": "https://github.com/PrsPrsBK/ytchatlog#readme",
   "devDependencies": {
     "eslint": "^7.22.0"
+  },
+  "volta": {
+    "node": "15.12.0",
+    "yarn": "1.22.10"
   }
 }
