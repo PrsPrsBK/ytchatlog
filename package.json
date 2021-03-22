@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/PrsPrsBK/ytchatlog/issues"
   },
-  "homepage": "https://github.com/PrsPrsBK/ytchatlog#readme"
+  "homepage": "https://github.com/PrsPrsBK/ytchatlog#readme",
+  "devDependencies": {
+    "eslint": "^7.22.0"
+  }
 }
