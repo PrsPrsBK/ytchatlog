@@ -1,6 +1,7 @@
 .nyc_output/
 lib/
 node_modules/
+note/
 testTgt/
 web-ext-artifacts/
 package-lock.json
