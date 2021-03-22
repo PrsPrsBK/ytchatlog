@@ -12,7 +12,8 @@
     "url": "git+https://github.com/PrsPrsBK/ytchatlog.git"
   },
   "keywords": [
-    "YouTube"
+    "YouTube",
+    "WebExtensions"
   ],
   "author": "PrsPrsBK",
   "license": "ISC",
