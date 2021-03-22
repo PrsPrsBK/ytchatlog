@@ -2,13 +2,14 @@ module.exports = {
   verbose: false,
   ignoreFiles: [
     'test/',
-    'testTgt/',
+    'testTarget/',
     'web-ext-artifacts/',
     '*.ps1',
     'package.json',
     'package-lock.json',
     'web-ext-config.js',
     'yarn.lock',
+    'note/',
   ],
   build: {
     overwriteDest: true,

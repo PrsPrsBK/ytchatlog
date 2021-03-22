@@ -42,5 +42,8 @@
       "./test/helpers/setup-browser-env.js"
     ],
     "timeout": "2m"
+  },
+  "dependencies": {
+    "webextension-polyfill": "^0.7.0"
   }
 }
