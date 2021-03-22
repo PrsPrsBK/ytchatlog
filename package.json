@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/PrsPrsBK/ytchatlog#readme",
   "devDependencies": {
+    "ava": "4.0.0-alpha.1",
     "eslint": "^7.22.0"
   },
   "volta": {
