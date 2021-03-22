@@ -2,8 +2,9 @@
 lib/
 node_modules/
 note/
-testTgt/
+testTarget/
 web-ext-artifacts/
+*.log
 package-lock.json
 yarn.lock
 work.ps1
