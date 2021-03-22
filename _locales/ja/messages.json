@@ -1,0 +1,12 @@
+{
+  "extensionName": {
+    "message": "YouTubeChatLog",
+    "description": ""
+  },
+  "extensionDescription": {
+    "message": "YouTubeのチャットを保存します"
+  },
+  "popupTitle": {
+    "message": "チャットログ"
+  }
+}

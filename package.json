@@ -1,0 +1,22 @@
+{
+  "name": "ytchatlog",
+  "version": "0.0.1",
+  "description": "browser extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrsPrsBK/ytchatlog.git"
+  },
+  "keywords": [
+    "YouTube"
+  ],
+  "author": "PrsPrsBK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrsPrsBK/ytchatlog/issues"
+  },
+  "homepage": "https://github.com/PrsPrsBK/ytchatlog#readme"
+}

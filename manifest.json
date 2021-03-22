@@ -1,0 +1,27 @@
+{
+  "description": "__MSG_extensionDescription__",
+  "manifest_version": 2,
+  "name": "__MSG_extensionName__",
+  "version": "0.0.1",
+  "icons": {
+    "96": "icons/icon-96.png"
+  },
+
+  "background": {
+    "scripts": [
+      "lib/browser-polyfill.min.js",
+      "background/background.js"
+    ]
+  },
+
+  "browser_action": {
+    "default_title": "__MSG_popupTitle__",
+    "default_popup": "popup/popup.html"
+  },
+
+  "default_locale": "en",
+
+  "permissions":[
+    "activeTab"
+  ]
+}

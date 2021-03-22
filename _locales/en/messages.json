@@ -1,0 +1,12 @@
+{
+  "extensionName": {
+    "message": "YouTubeChatLog",
+    "description": ""
+  },
+  "extensionDescription": {
+    "message": "Logging YouTube Chat"
+  },
+  "popupTitle": {
+    "message": "YT Chat Log"
+  }
+}
